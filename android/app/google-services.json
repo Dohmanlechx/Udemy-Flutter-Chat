@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007274359405",
+    "firebase_url": "https://flutter-chat-90a66.firebaseio.com",
+    "project_id": "flutter-chat-90a66",
+    "storage_bucket": "flutter-chat-90a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007274359405:android:6ff5fe552fb94aee64dd64",
+        "android_client_info": {
+          "package_name": "com.example.udemy_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007274359405-l69hjfo5aepqbofi9000mfncjmari2pq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfglIZBsS1TntLTd_93YPLaTrJTI9zhFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007274359405-l69hjfo5aepqbofi9000mfncjmari2pq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
